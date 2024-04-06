@@ -14,11 +14,11 @@
 
   ## [Installation](#table-of-contents)
 
-  [README Generator Download Link](https://github.com/MerlinRose2000/module9-node-README-generator)
+  [GitHub: MerlinRose2000](https://github.com/MerlinRose2000/module9-node-README-generator)
 
-  [ZIP file download Tutorial]()
+  [README video](https://drive.google.com/file/d/1pWSfDf96EnShMrf4VpzsRC-LesV1ji93/view)
 
-  ![README_sample](Develop/utils/images/README_sample.png)
+  ![README sample](Develop/utils/examples/README_sample.png)
 
   ## [Usage](#table-of-contents)
 
