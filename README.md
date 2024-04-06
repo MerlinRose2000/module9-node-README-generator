@@ -18,7 +18,7 @@
 
   [ZIP file download Tutorial]()
 
-  ![README_sample](Develop\utils\images\README_sample.png)
+  ![README_sample](Develop/utils/images/README_sample.png)
 
   ## [Usage](#table-of-contents)
 
