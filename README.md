@@ -14,8 +14,6 @@
 
   ## [Installation](#table-of-contents)
 
-  [GitHub: MerlinRose2000](https://github.com/MerlinRose2000/module9-node-README-generator)
-
   [README video](https://drive.google.com/file/d/1pWSfDf96EnShMrf4VpzsRC-LesV1ji93/view)
 
   ![README sample](Develop/utils/examples/README_sample.png)
